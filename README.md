@@ -1,1 +1,1 @@
-# image-ab-layer
+# Image Abstraction Layer
